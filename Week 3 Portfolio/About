@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Week 1</title>
+</head>
+
+<body>
+        <header>
+    <a href="index.html"><h1>Zee's Library</h1></a>
+    <p>Books by day, Fanfictions by night. Manga is on weekends.</p>
+
+    <nav>
+        <ul>
+            <li>
+                <a href="About.html">ABOUT</a>
+                <a href="#">RESUME</a>
+                <a href="#">PROJECTS</a>
+                <a href="#">WRITING</a>
+                <a href="#">ASSOCIATIONS</a>
+                <a href="#">CONTACT</a>
+            </li>
+        </ul>
+    </nav>
+    </header>
+<main>
+
+</main>
+
+
+
+    <script src="js/scripts-dist.js"></script>
+    
+</body>
+
+</html>

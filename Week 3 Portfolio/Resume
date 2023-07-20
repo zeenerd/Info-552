@@ -18,7 +18,7 @@
             <li>
                 <a href="About.html">ABOUT</a>
                 <a href="Resume.html">RESUME</a>
-                <a href="#">PROJECTS</a>
+                <a href="Projects.html">PROJECTS</a>
                 <a href="#">WRITING</a>
                 <a href="#">ASSOCIATIONS</a>
                 <a href="#">CONTACT</a>
@@ -29,7 +29,18 @@
 
     <main>
 
+        <article>
+            <a href="file:///C:/Users/ztran/Downloads/Resume%202023.pdf">Zee's CV</a>
+        </article>
 
+        <p>
+            If the link doesn't work, let me summarize!
+            I have my undergraduate degree in Mass Communications from Norfolk State University, with Cum Laude honors, and a focus of Film.
+            Past Expereince of working at my high school (Reservior High) in MD as a library asisstant, spent a few summers working at Ram's Head as a hostess, PF Changs as a busser, and got an Internship from my college as a Fixed Assets Intern.
+            For the past few years, I've worked as a Receptionist at a daycare I was raised at called Little Smiling Faces helping kids from 18 months - 5 years old, worked at Six Flags for over a year as Data Entry, Customer service at a Metal Manufacturing company, and now I work as a Night Auditor in Stevensville, MD. 
+            Now, I'm working full-time as I study to get my Master's in MLIS. 
+    
+        </p>
 
         <footer>
             <section id="footer-right">
@@ -50,7 +61,7 @@
         
             </section>
         </footer>
-        </main>
+     </main>
             <script src="js/scripts-dist.js"></script>
             
         </body>

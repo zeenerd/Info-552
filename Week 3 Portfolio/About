@@ -17,7 +17,7 @@
         <ul>
             <li>
                 <a href="About.html">ABOUT</a>
-                <a href="#">RESUME</a>
+                <a href="Resume.html">RESUME</a>
                 <a href="#">PROJECTS</a>
                 <a href="#">WRITING</a>
                 <a href="#">ASSOCIATIONS</a>
@@ -26,9 +26,27 @@
         </ul>
     </nav>
     </header>
-    
-<main>
 
+<main>
+<section id="index-left">
+<h1>About Me</h1>
+<p>Growing up, I was very obsessed with books. I think it began because my mom was always going to the library since she was still taking some extra classes at the college she was studying for. I'd get 10 books every week and read them as fast as I possbly could, ready to get more once they were all finished. By the time I was in middle school all I did outside of learning was spent in the library. I got so close to the librarian that she'd give me free books from the back that some people didn't read or things she didn't think she'd put up on the shelves. From then on, my love for books grew and grew. My high school days took me to branch out and spend my senior year aiding in the school library since my freshman year English year turned new librarian thought that it would be a perfect fit for me. It was easily the best year ever. I found out that I loved helping students find the books they needed, helping teachers get the documents they needed for class, and even helping organize the library with a new system for a few months. I didn't know what to do with the passion after college, having a Mass Communication degree. Working at a bookstore? Trying to work at a publishing house? Nope, the answer was to go back to school and get my degree for Library and Information Science. </p>
+
+<h2>So. Fanfictions?</h2>
+<p>
+    Is it weird that I would like fanfictions to become more apart of society? In a way where it can be spread more across the community besides just using the internet? There are so many works of writing that are based from fanfictions that have been made into big successful books. From 50 Shades of Grey, to After, to Red, White, and Royal Blue, or even the newly released book The Love Hypothesis. Fanfictions used to be something people were ashamed of reading and was a hobby that many hid, but now it's starting to be talked about and it should be! These are things that many users create for fun, but it's beginning to take the world by storm. 
+</p>
+
+<h3>Hobbies</h3>
+<p>
+    When I'm not studying you can always find me:
+    - Snuggled up with a good book
+    - Shaking my head at the tv as I watch a Korean Drama or new TV show
+    - Crocheting in my favorite spot of the house
+    - Playing Mario Kart
+    - Practicing Calligraphy
+</p>
+</section>
 
 
 <footer>

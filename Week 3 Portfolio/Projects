@@ -26,21 +26,7 @@
         </ul>
     </nav>
     </header>
-
-
 <main>
-    <section id="index-left">
-<h1>About Zee! (Zianni)</h1>
-<p>The aim of education is the knowledge, not of facts, but of value. -William S. Burroughs</p>
-
-<p>I'm in my first year at Drexel University to get my Master's in Library and Information Science. This class is to teach me how to build a website for information professionals so we can be prepared to create more like this in the future. I've been learning things from metadata, academic libraries, and how librarians are more than just book lovers. We are here to help the community, the students, and anyone else who needs guidance, help finding resources, or needing new organizational methods for thier business. Librarians are here to help students with academic success, help communities find tools and resources they need, and provide information that businesses or individuals need help with. It's more than meets the eye.</p>
-    </section>
-
-    <aside id="index-right">
-<img src="img/Zee Profile Picture.jpg" alt="profile image of Zianni">
-<h1>Zianni Transou</h1>
-<p>A Maryland raised person, studying to get thier MLIS at Drexel University, and an undergraduate degree in Mass Communications. Not sure what kind of librarian I want to be yet, but I'm loving everything I'm learning so far. </p>
-    </aside>
 
     <footer>
         <section id="footer-right">
@@ -63,12 +49,6 @@
     </footer>
 </main>
 
-
-
-
-
     <script src="js/scripts-dist.js"></script>
     
 </body>
-
-</html>

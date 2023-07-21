@@ -18,7 +18,7 @@
             <li>
                 <a href="About.html">ABOUT</a>
                 <a href="Resume.html">RESUME</a>
-                <a href="#">PROJECTS</a>
+                <a href="Projects.html">PROJECTS</a>
                 <a href="#">WRITING</a>
                 <a href="Associations.html">ASSOCIATIONS</a>
                 <a href="Contact.html">CONTACT</a>
@@ -27,3 +27,47 @@
     </nav>
     </header>
 
+    <main>
+<article>
+    In the past few years' I've been getting involved at the:
+
+    Annapolis Film Festival
+    Hillwood Museum
+</article>
+
+<p>
+    <a href="https://www.annapolisfilmfestival.com/">Annapolis Film Festival</a>
+    If you ever want to have a very fun volunteer opportunity, there are film festivals all over the US in the summer. The events are fun and you get to meet many people in the industry.
+
+    <a href="https://hillwoodmuseum.org/">Hillwood Museum</a>
+    This museum is a house museum based on Majorie Post, a nice place to learn about vintage items. 
+
+</p>
+
+        <footer>
+            <section id="footer-right">
+    <article>
+        <a href="file:///C:/Users/ztran/Downloads/Resume%202023.pdf">Zee's CV</a>
+    </article>
+            </section>
+            <section id="footer-left">
+    <article>
+        <h1>Any Questions?</h1>
+        <form action="#">
+            <input type="text" placeholder="Search...">
+            <button>Search</button>
+        </form>
+    </article>
+            </section>
+            <section id="footer-bottom">
+    
+            </section>
+        </footer>
+    </main>
+
+
+    <script src="js/scripts-dist.js"></script>
+    
+</body>
+
+</html>

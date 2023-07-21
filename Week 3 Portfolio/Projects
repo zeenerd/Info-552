@@ -20,13 +20,24 @@
                 <a href="Resume.html">RESUME</a>
                 <a href="Projects.html">PROJECTS</a>
                 <a href="#">WRITING</a>
-                <a href="#">ASSOCIATIONS</a>
-                <a href="#">CONTACT</a>
+                <a href="Associations.html">ASSOCIATIONS</a>
+                <a href="Contact.html">CONTACT</a>
             </li>
         </ul>
     </nav>
     </header>
 <main>
+    <h1>
+        Projects
+    </h1>
+
+    <p>
+        Last semester I made a mock webpage, but I'm not sure if it still wokrs currently. <a href="https://dev-bookstosceen.pantheonsite.io/">Books to Screen</a>
+    </p>
+
+<article>
+    I've haven't really doe any projects for my classes yet to  post for this page.
+</article>
 
     <footer>
         <section id="footer-right">

@@ -335,6 +335,20 @@ body {
   background-color: lightGreen;
 }
 
+.content-grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 16px auto 16px;
+  grid-template-columns: 16px auto 16px;
+      grid-template-areas: ". content .";
+}
+.content-grid .content-grid-item {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
+  background-color: var(--white);
+  grid-area: content;
+}
+
 /* =============
     Typography
 ============= */

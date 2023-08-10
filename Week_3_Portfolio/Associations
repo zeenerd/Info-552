@@ -26,7 +26,7 @@
     </header>
 
     <main>
-<article>
+<article id="associations-left">
     In the past few years' I've been getting involved at the:
 
     Annapolis Film Festival
@@ -42,7 +42,7 @@
 
 </p>
 
-<aside id="index-right">
+<aside id="main-content-right">
     <img src="img/Zee Profile Picture (2).jpg" alt="profile image of Zianni">
     <a href="https://www.instagram.com/zeemovienerd/">Zianni Transou</a>
 

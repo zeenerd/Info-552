@@ -396,7 +396,7 @@ nav {
   text-decoration: none;
 }
 #index-right a:hover, #index-right a:active {
-  color: var(--darkPurple);
+  color: #900C3F;
 }
 
 /* =============

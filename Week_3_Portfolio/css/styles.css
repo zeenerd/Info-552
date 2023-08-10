@@ -378,6 +378,10 @@ textarea {
 /* =============
     Navigation
 ============= */
+nav {
+  background-color: var(--tomato);
+}
+
 /* =============
     Header
 ============= */
@@ -387,6 +391,14 @@ textarea {
 /* =============
     Index
 ============= */
+#index a:link, #index a:visited {
+  color: var(--crimson);
+  text-decoration: none;
+}
+#index a:hover, #index a:active {
+  color: var(--darkPurple);
+}
+
 /* =============
     About
 ============= */

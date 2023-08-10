@@ -1,3 +1,20 @@
 /* =============
     Index
 ============= */
+
+#index{
+    a:link , a:visited , {
+      color: var(--crimson);
+      text-decoration: none;
+      
+
+
+    }
+
+a:hover, a:active{
+
+    color: var(--darkPurple);
+
+}
+
+}

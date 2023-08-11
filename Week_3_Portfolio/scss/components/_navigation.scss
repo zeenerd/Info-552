@@ -2,6 +2,24 @@
     Navigation
 ============= */
 
+darkPurple / crimson link   
+
+.darkPurpleLink:a:link , .darkPurpleLink:a:visited , {
+    color: var(--crimson);
+    text-decoration: none;
+
+
+
+  }
+
+a:hover, a:active{
+
+  color: #900C3F;
+  
+
+}
+
+
 nav{
     background-color: tomato;
 

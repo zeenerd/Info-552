@@ -17,20 +17,24 @@ body{
 }
 
 #main-content-right{
-    // love // hate
-    a:link , a:visited , {
-        color: var(--crimson);
+  .social-icons{
+    li{
+      .darkPurpleLink:a:link , .darkPurpleLink:a:visited , {
+        color: var(--black);
         text-decoration: none;
-  
-  
-  
+    
+    
+    
       }
-  
-  a:hover, a:active{
-  
+    
+    a:hover, a:active{
+    
       color: #900C3F;
       
-  
+    
+    }
+    }
+  }
   }
   
-}
+

@@ -15,3 +15,22 @@ body{
    grid-area: content;
   }
 }
+
+#main-content-right{
+    // love // hate
+    a:link , a:visited , {
+        color: var(--crimson);
+        text-decoration: none;
+  
+  
+  
+      }
+  
+  a:hover, a:active{
+  
+      color: #900C3F;
+      
+  
+  }
+  
+}
